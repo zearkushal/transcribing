@@ -1,0 +1,7 @@
+Flask
+whisper
+pydub
+soundfile
+numpy
+noisereduce
+librosa
